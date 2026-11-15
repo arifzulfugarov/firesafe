@@ -1,0 +1,12 @@
+gradio>=5,<7
+pandas
+matplotlib
+numpy
+pymupdf
+scikit-learn
+# Only needed to run a fine-tuned Qwen model, not to explore curated data:
+# torch
+# transformers
+# peft
+# unsloth
+# huggingface_hub
